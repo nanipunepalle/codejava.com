@@ -1,0 +1,18 @@
+#logo{
+	background-color: rgb(182, 140, 134);
+	padding:25px;
+	padding-left: 300px;
+	padding-right: 480px;
+	margin: 0px;
+	position:fixed;
+}
+
+.program
+{
+	padding:200px;
+	background-color: grey;
+
+}
+.code{
+	background-color: white
+}
